@@ -31,11 +31,11 @@ I'm currently diving into the exciting world of JavaScript and am passionate abo
 
 Let's discuss testing, automation,development and everything in between!    
 
-<a href="https://www.linkedin.com/in/suraj-sundar/">Linkedin</a>
-</br>
+<a href="https://www.linkedin.com/in/suraj-sundar/">Linkedin</a> | 
 <a href="https://twitter.com/surajsundar15">Twitter</a>
 </br>
-💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+If you have any question/feedback, please do not hesitate to reach out to me!
 
 Happy coding! 🚀
 
