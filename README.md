@@ -29,7 +29,7 @@ I'm currently diving into the exciting world of JavaScript and am passionate abo
 
 ### 🌐 Connect with Me:
 
-Let's discuss testing, automation, and everything in between! Feel free to connect with me on [Linkedin](linkedin.com/in/suraj-sundar/) or follow me on [Twitter](twitter.com/surajsundar15). Check out my latest projects and don't hesitate to reach out for collaboration or a friendly tech chat.
+Let's discuss testing, automation, and everything in between! Feel free to connect with me on [Linkedin]linkedin.com/in/suraj-sundar or follow me on [Twitter]twitter.com/surajsundar15. Check out my latest projects and don't hesitate to reach out for collaboration or a friendly tech chat.
 
 Happy coding! 🚀
 
