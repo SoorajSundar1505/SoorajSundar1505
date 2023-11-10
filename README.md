@@ -1,16 +1,35 @@
-### Hi there 👋
+## Hey! Nice to see you.
 
-<!--
-**SoorajSundar1505/SoorajSundar1505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Suraj, a Software Development Engineer in Test (SDET) from 🇮🇳 Bangalore, India 
 
-Here are some ideas to get you started:
+Passionate about the seamless integration of testing and development, I specialize in creating robust and efficient automation solutions. My journey in the world of software engineering revolves around ensuring the quality and reliability of applications through innovative testing strategies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 What I Do:
+
+- **Automation Enthusiast:** I thrive on automating repetitive tasks to boost efficiency and enhance product quality.
+- **Full Stack QA:** From frontend to backend, I ensure comprehensive test coverage across the entire software stack.
+- **Continuous Improvement:** Committed to staying at the forefront of industry trends, I continuously explore new testing methodologies and technologies.
+
+### 🚀 Tech Stack:
+
+- **Languages:** Java, Python, JavaScript
+- **Testing Frameworks:** Selenium, JUnit, TestNG, Cypress
+- **CI/CD:** Jenkins, Github actions
+- **Version Control:** Git
+
+### 🔧 Tools of the Trade:
+
+- **IDE:** IntelliJ, Visual Studio Code, Eclipse
+- **Collaboration:** Jira, Confluence
+- **Containerization:** Docker
+
+### 🌐 Passion for Web Tech:
+
+I'm currently diving into the exciting world of JavaScript and am passionate about web technologies and development. From front-end frameworks to server-side scripting, I'm dedicated to expanding my expertise in creating exceptional web experiences.
+
+### 🌐 Connect with Me:
+
+Let's discuss testing, automation, and everything in between! Feel free to connect with me on [Linkedin](linkedin.com/in/suraj-sundar/) or follow me on [Twitter](twitter.com/surajsundar15). Check out my latest projects and don't hesitate to reach out for collaboration or a friendly tech chat.
+
+Happy coding! 🚀
+
