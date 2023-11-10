@@ -1,6 +1,6 @@
 ## Hey! Nice to see you.
 
-I'm Suraj, a Software Development Engineer in Test (SDET) from 🇮🇳 Bangalore, India 
+I'm Suraj, a Software Development Engineer in Test (SDET) from  🇮🇳 Bangalore, India 
 
 Passionate about the seamless integration of testing and development, I specialize in creating robust and efficient automation solutions. My journey in the world of software engineering revolves around ensuring the quality and reliability of applications through innovative testing strategies.
 
