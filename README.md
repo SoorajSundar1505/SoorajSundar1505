@@ -19,7 +19,7 @@ Passionate about the seamless integration of testing and development, I speciali
 
 ### 🔧 Tools of the Trade:
 
-- **IDE:** IntelliJ, Visual Studio Code, Eclipse
+- **IDE:** Visual Studio Code, Eclipse
 - **Collaboration:** Jira, Confluence
 - **Containerization:** Docker
 
