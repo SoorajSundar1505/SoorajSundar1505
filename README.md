@@ -37,7 +37,7 @@ and low-latency request control.
 
 - Atomic Lua operations for race-free updates across nodes
 - Load tested with k6
-- [View Repository →]([https://github.com/SoorajSundar1505/distributed-rate-limiter])
+- [View Repository →](https://github.com/SoorajSundar1505/distributed-rate-limiter)
 
 ### Draftly — Async LLM Workflow Engine
 
