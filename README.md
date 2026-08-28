@@ -1,41 +1,70 @@
-## Hey! Nice to see you.
+# Hi, I'm Suraj 👋
 
-I'm Suraj, a Software Development Engineer in Test (SDET) from  🇮🇳 Bangalore, India 
+Software Engineer based in Bangalore, India, focused on **Distributed Systems, Backend Engineering, Platform Reliability, and Developer Infrastructure**.
 
-Passionate about the seamless integration of testing and development, I specialize in creating robust and efficient automation solutions. My journey in the world of software engineering revolves around ensuring the quality and reliability of applications through innovative testing strategies.
+I build reliable systems and engineering platforms using Java, Python, Kafka, Redis, AWS, and modern cloud-native technologies.
 
-### 🌟 What I Do:
+## What I Work On
 
-- **Automation Enthusiast:** I thrive on automating repetitive tasks to boost efficiency and enhance product quality.
-- **Full Stack QA:** From frontend to backend, I ensure comprehensive test coverage across the entire software stack.
-- **Continuous Improvement:** Committed to staying at the forefront of industry trends, I continuously explore new testing methodologies and technologies.
+- Distributed systems and event-driven architectures
+- Backend services and REST APIs
+- Platform reliability and infrastructure
+- Kafka-based event processing
+- Concurrency and failure handling
+- Distributed rate limiting and caching
+- Test infrastructure and developer productivity
+- CI/CD and cloud automation
 
-### 🚀 Tech Stack:
+## Tech Stack
 
-- **Languages:** Java, Python, JavaScript
-- **Testing Frameworks:** Selenium, JUnit, TestNG, Cypress
-- **CI/CD:** Jenkins, Github actions
-- **Version Control:** Git
+**Languages**
+- Java
+- Python
+- JavaScript / TypeScript
 
-### 🔧 Tools of the Trade:
+**Backend & Distributed Systems**
+- Spring Boot
+- Apache Kafka
+- Redis
+- REST APIs
+- PostgreSQL
+- Microservices
 
-- **IDE:** Visual Studio Code, Eclipse
-- **Collaboration:** Jira, Confluence
-- **Containerization:** Docker
+**Cloud & Infrastructure**
+- AWS
+- GCP
+- Docker
+- Jenkins
+- GitHub Actions
 
-### 🌐 Passion for Web Tech:
+**Engineering**
+- Distributed Systems
+- Concurrency
+- System Design
+- Reliability Engineering
+- Observability
+- CI/CD
 
-I'm currently diving into the exciting world of JavaScript and am passionate about web technologies and development. From front-end frameworks to server-side scripting, I'm dedicated to expanding my expertise in creating exceptional web experiences.
+## Selected Projects
 
-### 🌐 Connect with Me:
+### Distributed Rate Limiter
+Distributed rate-limiting system using Redis with support for concurrent requests and scalable request throttling.
 
-Let's discuss testing, automation,development and everything in between!    
+### Event-Driven Backend
+Event-driven backend built using Node.js and Kafka, focusing on asynchronous processing and reliable event delivery.
 
-<a href="https://www.linkedin.com/in/suraj-sundar/">Linkedin</a> | 
-<a href="https://twitter.com/surajsundar15">Twitter</a>
-</br>
+### Developer / Test Infrastructure
+Java-based automation and infrastructure designed to improve engineering productivity, reliability, and system validation.
 
-If you have any question/feedback, please do not hesitate to reach out to me!
+## Currently Learning
 
-Happy coding! 🚀
+- Advanced Distributed Systems
+- System Design
+- Kubernetes
+- Cloud Infrastructure
+- JVM Internals
+- High-Scale Backend Engineering
 
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/suraj-sundar/)
