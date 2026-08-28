@@ -88,6 +88,6 @@ High-Scale Backend Engineering
 
 ## 🔗 Connect
 
-📧 [Email](mailto:soorajswtester.com)  
+📧 [Email](mailto:soorajswtester@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/suraj-sundar/)  
 🐙 [GitHub](https://github.com/SoorajSundar1505)
