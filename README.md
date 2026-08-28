@@ -1,70 +1,74 @@
-# Hi, I'm Suraj 👋
+# Suraj Sundar
 
-Software Engineer based in Bangalore, India, focused on **Distributed Systems, Backend Engineering, Platform Reliability, and Developer Infrastructure**.
+Staff-level Software Engineer | Distributed Systems | Backend Platform Reliability
 
-I build reliable systems and engineering platforms using Java, Python, Kafka, Redis, AWS, and modern cloud-native technologies.
+Building high-performance, fault-tolerant systems at scale. Expertise in Kafka-based event architectures, microservices, distributed systems, and platform reliability.
 
-## What I Work On
+---
 
-- Distributed systems and event-driven architectures
-- Backend services and REST APIs
-- Platform reliability and infrastructure
-- Kafka-based event processing
-- Concurrency and failure handling
-- Distributed rate limiting and caching
-- Test infrastructure and developer productivity
-- CI/CD and cloud automation
+## 🚀 What I Build
 
-## Tech Stack
+- **Distributed Systems**: Event-driven architectures, async job queues, eventual consistency
+- **Backend Platforms**: REST APIs, microservices, high-throughput data pipelines
+- **Reliability Engineering**: Concurrency, failure scenarios, resilience patterns, observability
+- **Infrastructure**: Kafka, Redis, Docker, AWS/GCP, CI/CD automation
 
-**Languages**
-- Java
-- Python
-- JavaScript / TypeScript
+---
 
-**Backend & Distributed Systems**
-- Spring Boot
-- Apache Kafka
-- Redis
-- REST APIs
-- PostgreSQL
-- Microservices
+## 💻 Tech Stack
 
-**Cloud & Infrastructure**
-- AWS
-- GCP
-- Docker
-- Jenkins
-- GitHub Actions
+**Languages**: Java · Python · JavaScript/TypeScript  
+**Backend**:  Kafka · Redis · PostgreSQL · MongoDB · Microservices  
+**Cloud**: AWS · GCP · Docker · Jenkins · GitHub Actions  
+**Specialties**: Distributed Systems · System Design · Concurrency · Rate Limiting · Event Processing
 
-**Engineering**
-- Distributed Systems
-- Concurrency
-- System Design
-- Reliability Engineering
-- Observability
-- CI/CD
+---
 
-## Selected Projects
+## 📌 Featured Projects
 
 ### Distributed Rate Limiter
-Distributed rate-limiting system using Redis with support for concurrent requests and scalable request throttling.
+Token bucket rate limiter with Redis backend, handling 50K+ concurrent requests.
+- Atomic Lua operations prevent race conditions across nodes
+- <1ms P99 latency with k6 load testing
+- **[View Repo →](https://github.com/SoorajSundar1505/distributed-rate-limiter)**
 
-### Event-Driven Backend
-Event-driven backend built using Node.js and Kafka, focusing on asynchronous processing and reliable event delivery.
+### Draftly – Async LLM Workflow Engine
+Event-driven backend for asynchronous Gmail draft generation using Google Cloud Pub/Sub and OpenAI.
+- Node.js + Google Cloud Pub/Sub + OpenAI API
+- Idempotent processing, OAuth token refresh, approval workflows
+- **[View Repo →](https://github.com/SoorajSundar1505/Draftly)**
 
-### Developer / Test Infrastructure
-Java-based automation and infrastructure designed to improve engineering productivity, reliability, and system validation.
+---
 
-## Currently Learning
+## 💼 Experience Highlights
 
-- Advanced Distributed Systems
-- System Design
-- Kubernetes
-- Cloud Infrastructure
-- JVM Internals
-- High-Scale Backend Engineering
+**Mimecast** | Sr. SDET (May 2024 – Present)
+- Led reliability validation for Kafka event pipelines ensuring ordering + idempotency under high concurrency
+- Architected reusable Java/REST Assured API framework reducing onboarding by 30%
+- Shipped AI-assisted quality intelligence platform (Jenkins/JIRA integration)
 
-## Connect
+**Deloitte** | QA Consultant (Oct 2020 – Mar 2024)
+- Built high-throughput Java/Python validation frameworks eliminating 80% manual testing
+- Validated async job queues on AWS/GCP under partial-failure conditions
 
-[LinkedIn](https://www.linkedin.com/in/suraj-sundar/)
+---
+
+## 📊 By The Numbers
+
+- **12+ years** in test architecture, distributed systems, platform reliability
+- **50K+** concurrent requests/sec (rate limiter)
+- **80%** reduction in manual testing effort (validation frameworks)
+- **40%** faster QI platform onboarding
+
+---
+
+## 🔗 Connect
+
+📧 [Email](mailto:oorajswester@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/suraj-sundar/)  
+🐙 [GitHub](https://github.com/SoorajSundar1505)
+
+---
+
+### Currently Exploring
+Advanced Distributed Systems · Kubernetes · JVM Internals · High-Scale Backend Engineering
