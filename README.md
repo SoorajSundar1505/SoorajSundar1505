@@ -18,7 +18,7 @@ architectures, microservices, distributed systems, and platform reliability.
 
 ## 💻 Tech Stack
 
-**Languages:** Java · Python · JavaScript/TypeScript
+**Languages:** Java · Python · Go · JavaScript/TypeScript
 
 **Backend & Data:** Kafka · Redis · PostgreSQL · MongoDB · REST · Microservices
 
